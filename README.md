@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HitanshBhatt&repo=Synonyms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/HitanshBhatt/Personal-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HitanshBhatt&repo=Personal-Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <a href="https://github.com/HitanshBhatt/Pilot-Checklist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HitanshBhatt&repo=Pilot-Checklist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
