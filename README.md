@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hitansh Bhatt. I'm a second year Computer Engineering student at the University of Toronto
+- 👋 Hi, I’m Hitansh Bhatt. I'm a third year Computer Engineering student at the University of Toronto
 - 👀 I’m interested in computer science, engineering, and aviation.
 - 🌱 I’m currently learning web development and C.
 - 💞️ I’m looking to collaborate with people on interesting projects that could benefit the community and society around me.
