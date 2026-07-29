@@ -31,6 +31,7 @@ Most of the repositories here are projects I've built to explore new technologie
 - Scikit-learn
 - OpenCV
 - Hugging Face
+- LangChain
 
 ### Backend & Web
 - Django
